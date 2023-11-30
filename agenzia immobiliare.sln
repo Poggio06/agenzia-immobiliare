@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenzia immobiliare", "agenzia immobiliare\agenzia immobiliare.csproj", "{B11EFDA2-E65F-496D-8F38-D28CF3F449AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11EFDA2-E65F-496D-8F38-D28CF3F449AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11EFDA2-E65F-496D-8F38-D28CF3F449AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11EFDA2-E65F-496D-8F38-D28CF3F449AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11EFDA2-E65F-496D-8F38-D28CF3F449AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0AB635-B936-4616-A959-5349629F624E}
+	EndGlobalSection
+EndGlobal
